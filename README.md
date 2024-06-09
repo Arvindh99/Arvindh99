@@ -1,4 +1,4 @@
-# Hi there, I'm Arvindh! 👋
+# Hello, I'm Arvindh! 👋
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Arvindh99.Arvindh99)
 
