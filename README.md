@@ -31,7 +31,7 @@ Having a Masters degree in Health Data Science and have over 3 years of work exp
 
 ## GitHub Stats
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Arvindh99&theme=dark)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Arvindh99?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Top Languages
 
