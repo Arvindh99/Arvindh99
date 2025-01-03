@@ -5,7 +5,7 @@
 ## About Me
 
 ### An Inspiring Data Analyst
-Having a Masters degree in Health Data Science and have over 3 years of work experience with a strong foundation in Python, Machine Learning, SQL, Tableau, Power BI, and Excel. My journey in the world of data is marked by a relentless pursuit of unlocking actionable insights that fuel business growth.
+Having a Masters degree in Health Data Science and have over 4 years of work experience with a strong foundation in Python, Machine Learning, SQL, Tableau, Power BI, and Excel. My journey in the world of data is marked by a relentless pursuit of unlocking actionable insights that fuel business growth.
 
 - 🌱 I’m currently learning LLM's
 - 👯 I’m looking to collaborate on open-source projects
