@@ -11,6 +11,7 @@ Having a Masters degree in Health Data Science and have over 4 years of work exp
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: cvarvindh@gmail.com
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I taught an AI to talk to a database—now it knows more SQL than I do!
 
 ## Technologies and Tools
 
