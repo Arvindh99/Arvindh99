@@ -79,7 +79,9 @@
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvindh22199)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arvindh22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://broadleaf-cymbal-f97.notion.site/ARVINDH-C-VIGNESH-113a5e0a299a80ad8ffced63310f9b9a)
+
+---
 
 ✨ Thanks for visiting my profile! Let’s build something data-driven together.
 
